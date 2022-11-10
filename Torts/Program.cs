@@ -78,9 +78,9 @@ namespace Torts
 
             static void Exit()
             {
-                Console.WriteLine("Ваш заказ оформлен!");
+                Console.WriteLine("Ваш чек готов!");
 
-                string path = "C:\\Users\\tosya\\OneDrive\\Рабочий стол\\История заказов";
+                string path = "C:\Users\rusla\Desktop\Voicevision 8";
                 string text = "Описание заказа";
                 foreach (string item in Global.Order) { Console.WriteLine(item); };
                 string price = "Цена: " + Global.Price;
