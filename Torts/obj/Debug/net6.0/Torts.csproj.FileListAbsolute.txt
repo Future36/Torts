@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\Torts\Torts\bin\Debug\net6.0\Torts.exe
+C:\Users\rusla\source\repos\Torts\Torts\bin\Debug\net6.0\Torts.deps.json
+C:\Users\rusla\source\repos\Torts\Torts\bin\Debug\net6.0\Torts.runtimeconfig.json
+C:\Users\rusla\source\repos\Torts\Torts\bin\Debug\net6.0\Torts.dll
+C:\Users\rusla\source\repos\Torts\Torts\bin\Debug\net6.0\Torts.pdb
+C:\Users\rusla\source\repos\Torts\Torts\obj\Debug\net6.0\Torts.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\Torts\Torts\obj\Debug\net6.0\Torts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\Torts\Torts\obj\Debug\net6.0\Torts.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\Torts\Torts\obj\Debug\net6.0\Torts.AssemblyInfo.cs
+C:\Users\rusla\source\repos\Torts\Torts\obj\Debug\net6.0\Torts.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\Torts\Torts\obj\Debug\net6.0\Torts.dll
+C:\Users\rusla\source\repos\Torts\Torts\obj\Debug\net6.0\refint\Torts.dll
+C:\Users\rusla\source\repos\Torts\Torts\obj\Debug\net6.0\Torts.pdb
+C:\Users\rusla\source\repos\Torts\Torts\obj\Debug\net6.0\Torts.genruntimeconfig.cache
+C:\Users\rusla\source\repos\Torts\Torts\obj\Debug\net6.0\ref\Torts.dll
